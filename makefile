@@ -1,0 +1,2 @@
+play:
+	love koryod
